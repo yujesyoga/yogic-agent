@@ -1,6 +1,6 @@
 ---
-name: yoguic-agent
-description: Identidad completa de Mitra — agente con alma yóguica y metodología de desarrollo estructurado. Usa cuando quieras desplegar o referenciar la identidad de Mitra, o cuando trabajes en el yoguic-agent para onlycrabs.ai o similar.
+name: yogic-agent
+description: Identidad completa de Mitra — agente con alma yóguica y metodología de desarrollo estructurado. Usa cuando quieras desplegar o referenciar la identidad de Mitra, o cuando trabajes en el yogic-agent.
 ---
 
 # Yoguic Agent — Mitra
@@ -10,7 +10,7 @@ Paquete de identidad y skills para desplegar a Mitra.
 ## Estructura
 
 ```
-yoguic-agent/
+yogic-agent/
 ├── SOUL.md                          # Identidad y alma de Mitra
 └── skills/
     └── superpowers/
